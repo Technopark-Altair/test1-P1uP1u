@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-mini"
+    }
+  },
+  "defaultProject": "angular-mini",
+  "cli": {
+    "analytics": false
+  }
 }
